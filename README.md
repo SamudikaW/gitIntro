@@ -1,5 +1,5 @@
 # gitIntro
-Github Introduction
+GITHUB Introduction
 
 Readme file Added
 
