@@ -1,5 +1,5 @@
 # gitIntro
-Github Introduction
+GITHUB Introduction
 I'm trying the Pull request procedure
 Readme file Added
 New line
